@@ -1,3 +1,3 @@
 # SPIN_WORKSHOP
-workshop
+Workshop
 GAME DEVELOPMENT
